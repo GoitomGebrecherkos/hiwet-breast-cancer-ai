@@ -1,0 +1,470 @@
+[
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (92).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (414).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (118).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (377).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (251).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (96).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (306).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (24).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (141).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (176).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (302).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (393).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (220).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (208).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (106).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (107).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (214).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/normal/normal (46).png",
+    2
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (83).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (12).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (52).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (316).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/normal/normal (3).png",
+    2
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/normal/normal (15).png",
+    2
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/normal/normal (85).png",
+    2
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (101).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (140).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (348).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (409).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (337).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (102).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/normal/normal (112).png",
+    2
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (375).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (269).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (71).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (119).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (79).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (70).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (378).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (363).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (381).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/normal/normal (43).png",
+    2
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (37).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (109).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (359).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (118).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/normal/normal (61).png",
+    2
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/normal/normal (36).png",
+    2
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (341).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (325).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (78).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (123).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (85).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/normal/normal (122).png",
+    2
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/normal/normal (113).png",
+    2
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (124).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (21).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/normal/normal (130).png",
+    2
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (82).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (157).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (406).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (245).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/normal/normal (7).png",
+    2
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (133).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/normal/normal (92).png",
+    2
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (154).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (178).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (10).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (24).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (434).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (292).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/normal/normal (1).png",
+    2
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (342).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (163).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (99).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (144).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (271).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (408).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/normal/normal (54).png",
+    2
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (387).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (34).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (56).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (422).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (402).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (157).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (138).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (182).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (26).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (143).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (233).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/normal/normal (70).png",
+    2
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (332).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (65).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (33).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (14).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/normal/normal (27).png",
+    2
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (235).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (160).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (13).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (243).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (117).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (91).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/normal/normal (47).png",
+    2
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/normal/normal (32).png",
+    2
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (165).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (284).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (270).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (318).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (58).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (19).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (326).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (174).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/normal/normal (65).png",
+    2
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (137).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (365).png",
+    0
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/malignant/malignant (8).png",
+    1
+  ],
+  [
+    "/tmp/busi/Dataset_BUSI_with_GT/benign/benign (295).png",
+    0
+  ]
+]

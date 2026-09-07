@@ -1,0 +1,27 @@
+{
+  "accuracy": 0.9824561403508771,
+  "precision_benign": 0.9861111111111112,
+  "recall_benign": 0.9861111111111112,
+  "f1_benign": 0.9861111111111112,
+  "roc_auc": 0.9976851851851851,
+  "confusion_matrix": [
+    [
+      41,
+      1
+    ],
+    [
+      1,
+      71
+    ]
+  ],
+  "best_params": {
+    "svm__C": 10,
+    "svm__gamma": 0.01,
+    "svm__kernel": "rbf"
+  },
+  "cv_roc_auc": 0.9953560371517028,
+  "dataset_rows": 569,
+  "dataset_features": 30,
+  "test_size": 0.2,
+  "random_state": 42
+}
